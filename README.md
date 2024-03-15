@@ -1,3 +1,3 @@
 # I have migrated away from GitHub.
 
-You may now find me [here](https://git.43615.xyz).
+You may now find me on [Codeberg](https://codeberg.org/voidentente).
